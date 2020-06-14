@@ -1,0 +1,22 @@
+#ignore
+.classpath
+.project
+.factorypath
+target
+test-output
+.settings
+*.log
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+#exclusive
+!src/
+!resources/
+!pom.xml
+!.gitignore
+!*.json
+!java
+
