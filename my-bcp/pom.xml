@@ -12,7 +12,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <java.version>1.8</java.version>
-        <springboot.version>2.2.8.RELEASE</springboot.version>
+        <springboot.version>2.5.12</springboot.version>
         <lombok.version>1.18.4</lombok.version>
     </properties>
     
